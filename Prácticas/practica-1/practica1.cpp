@@ -11,7 +11,7 @@
  *
  * Materia: Teoría Computacional
  * Grupo: 2CM1
- * Profesor: Roberto Alcántara
+ * Profesor: Alberto Alcántara
  * ESCOM - IPN
  * 11/Oct/2020.
  */
@@ -57,7 +57,7 @@ int main(int argc, char *argv[])
 
   // Mensajes de inicio.
   std::cout << "Escuela Superior de Cómputo - IPN" << std::endl
-            << "Teoría Computacional - Roberto Alcántara" << std::endl
+            << "Teoría Computacional - Alberto Alcántara" << std::endl
             << "Práctica 1: Elevar un alfabeto a la N-ésima potencia." << std::endl
             << "Equipo:" << std::endl
             << "  - Diego Akira Martinez Rodriguez  (2014110833) <dmartinezr1301@alumno.ipn.mx>" << std::endl
